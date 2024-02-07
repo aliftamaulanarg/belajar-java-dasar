@@ -7,7 +7,7 @@ public class Komentar {
 
         // test satu, test 2
         // test 3, test 4
-        // test 5
+        // test 555
 
         int angka;
         angka = 10 + 10;
